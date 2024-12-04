@@ -1,5 +1,3 @@
-package Heap;
-
 
 class heapSorting{
     public void heapSort(int arr[]) {
